@@ -1,0 +1,11 @@
+B:\Users\garipoff\source\repos\monitor\monitor\bin\Debug\netcoreapp2.2\monitor.deps.json
+B:\Users\garipoff\source\repos\monitor\monitor\bin\Debug\netcoreapp2.2\monitor.runtimeconfig.json
+B:\Users\garipoff\source\repos\monitor\monitor\bin\Debug\netcoreapp2.2\monitor.runtimeconfig.dev.json
+B:\Users\garipoff\source\repos\monitor\monitor\bin\Debug\netcoreapp2.2\monitor.dll
+B:\Users\garipoff\source\repos\monitor\monitor\bin\Debug\netcoreapp2.2\monitor.pdb
+B:\Users\garipoff\source\repos\monitor\monitor\obj\Debug\netcoreapp2.2\monitor.csprojAssemblyReference.cache
+B:\Users\garipoff\source\repos\monitor\monitor\obj\Debug\netcoreapp2.2\monitor.csproj.CoreCompileInputs.cache
+B:\Users\garipoff\source\repos\monitor\monitor\obj\Debug\netcoreapp2.2\monitor.AssemblyInfoInputs.cache
+B:\Users\garipoff\source\repos\monitor\monitor\obj\Debug\netcoreapp2.2\monitor.AssemblyInfo.cs
+B:\Users\garipoff\source\repos\monitor\monitor\obj\Debug\netcoreapp2.2\monitor.dll
+B:\Users\garipoff\source\repos\monitor\monitor\obj\Debug\netcoreapp2.2\monitor.pdb
